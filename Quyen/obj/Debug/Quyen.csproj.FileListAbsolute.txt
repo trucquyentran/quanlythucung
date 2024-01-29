@@ -1,0 +1,571 @@
+C:\Users\NGA\source\repos\Quyen\Quyen\bin\Debug\Quyen.exe.config
+C:\Users\NGA\source\repos\Quyen\Quyen\bin\Debug\Quyen.exe
+C:\Users\NGA\source\repos\Quyen\Quyen\bin\Debug\Quyen.pdb
+C:\Users\NGA\source\repos\Quyen\Quyen\obj\Debug\Quyen.csprojAssemblyReference.cache
+C:\Users\NGA\source\repos\Quyen\Quyen\obj\Debug\Quyen.Properties.Resources.resources
+C:\Users\NGA\source\repos\Quyen\Quyen\obj\Debug\Quyen.csproj.GenerateResource.cache
+C:\Users\NGA\source\repos\Quyen\Quyen\obj\Debug\Quyen.csproj.CoreCompileInputs.cache
+C:\Users\NGA\source\repos\Quyen\Quyen\obj\Debug\Quyen.exe
+C:\Users\NGA\source\repos\Quyen\Quyen\obj\Debug\Quyen.pdb
+C:\Users\NGA\source\repos\Quyen\Quyen\obj\Debug\Quyen.Form1.resources
+C:\Users\NGA\source\repos\Quyen\Quyen\obj\Debug\Quyen.Form2.resources
+C:\Users\NGA\source\repos\Quyen\Quyen\obj\Debug\Quyen.Form3.resources
+C:\Users\NGA\source\repos\Quyen\Quyen\obj\Debug\Quyen.Form4.resources
+C:\Users\NGA\source\repos\Quyen\Quyen\obj\Debug\Quyen.Form5.resources
+F:\Quyen\Quyen\obj\Debug\Quyen.csprojAssemblyReference.cache
+F:\Quyen\Quyen\obj\Debug\Quyen.Form4.resources
+F:\Quyen\Quyen\obj\Debug\Quyen.Properties.Resources.resources
+F:\Quyen\Quyen\obj\Debug\Quyen.csproj.GenerateResource.cache
+F:\Quyen\Quyen\obj\Debug\Quyen.csproj.CoreCompileInputs.cache
+F:\Quyen\Quyen\obj\Debug\Quyen.exe
+F:\Quyen\Quyen\obj\Debug\Quyen.pdb
+F:\Quyen\Quyen\bin\Debug\Quyen.exe.config
+F:\Quyen\Quyen\bin\Debug\Quyen.exe
+F:\Quyen\Quyen\bin\Debug\Quyen.pdb
+F:\Quyen\Quyen\obj\Debug\Quyen.dangnhap.resources
+F:\Quyen\Quyen\obj\Debug\Quyen.dangky.resources
+F:\Quyen\Quyen\obj\Debug\Quyen.quenMK.resources
+F:\Quyen\Quyen\obj\Debug\Quyen.khachhang.resources
+F:\Quyen\Quyen\obj\Debug\Quyen.nhanvien.resources
+F:\Quyen\Quyen\obj\Debug\Quyen.trangchu.resources
+F:\Quyen\Quyen\obj\Debug\Quyen.sanpham.resources
+F:\Quyen\Quyen\obj\Debug\Quyen.dichvu.resources
+F:\Quyen\Quyen\obj\Debug\Quyen.thucung.resources
+F:\Quyen\Quyen\obj\Debug\Quyen.hoadon.resources
+E:\Quyen\Quyen\bin\Debug\Quyen.exe.config
+E:\Quyen\Quyen\bin\Debug\Quyen.exe
+E:\Quyen\Quyen\bin\Debug\Quyen.pdb
+E:\Quyen\Quyen\obj\Debug\Quyen.csprojAssemblyReference.cache
+E:\Quyen\Quyen\obj\Debug\Quyen.dangnhap.resources
+E:\Quyen\Quyen\obj\Debug\Quyen.dangky.resources
+E:\Quyen\Quyen\obj\Debug\Quyen.hoadon.resources
+E:\Quyen\Quyen\obj\Debug\Quyen.quenMK.resources
+E:\Quyen\Quyen\obj\Debug\Quyen.Form4.resources
+E:\Quyen\Quyen\obj\Debug\Quyen.khachhang.resources
+E:\Quyen\Quyen\obj\Debug\Quyen.nhanvien.resources
+E:\Quyen\Quyen\obj\Debug\Quyen.thucung.resources
+E:\Quyen\Quyen\obj\Debug\Quyen.trangchu.resources
+E:\Quyen\Quyen\obj\Debug\Quyen.sanpham.resources
+E:\Quyen\Quyen\obj\Debug\Quyen.dichvu.resources
+E:\Quyen\Quyen\obj\Debug\Quyen.Properties.Resources.resources
+E:\Quyen\Quyen\obj\Debug\Quyen.csproj.GenerateResource.cache
+E:\Quyen\Quyen\obj\Debug\Quyen.csproj.CoreCompileInputs.cache
+E:\Quyen\Quyen\obj\Debug\Quyen.exe
+E:\Quyen\Quyen\obj\Debug\Quyen.pdb
+C:\Users\NGA\Downloads\Quyen\Quyen\bin\Debug\Quyen.exe.config
+C:\Users\NGA\Downloads\Quyen\Quyen\bin\Debug\Quyen.exe
+C:\Users\NGA\Downloads\Quyen\Quyen\bin\Debug\Quyen.pdb
+C:\Users\NGA\Downloads\Quyen\Quyen\obj\Debug\Quyen.csprojAssemblyReference.cache
+C:\Users\NGA\Downloads\Quyen\Quyen\obj\Debug\Quyen.dangnhap.resources
+C:\Users\NGA\Downloads\Quyen\Quyen\obj\Debug\Quyen.dangky.resources
+C:\Users\NGA\Downloads\Quyen\Quyen\obj\Debug\Quyen.hoadon.resources
+C:\Users\NGA\Downloads\Quyen\Quyen\obj\Debug\Quyen.quenMK.resources
+C:\Users\NGA\Downloads\Quyen\Quyen\obj\Debug\Quyen.Form4.resources
+C:\Users\NGA\Downloads\Quyen\Quyen\obj\Debug\Quyen.khachhang.resources
+C:\Users\NGA\Downloads\Quyen\Quyen\obj\Debug\Quyen.nhanvien.resources
+C:\Users\NGA\Downloads\Quyen\Quyen\obj\Debug\Quyen.thucung.resources
+C:\Users\NGA\Downloads\Quyen\Quyen\obj\Debug\Quyen.trangchu.resources
+C:\Users\NGA\Downloads\Quyen\Quyen\obj\Debug\Quyen.sanpham.resources
+C:\Users\NGA\Downloads\Quyen\Quyen\obj\Debug\Quyen.dichvu.resources
+C:\Users\NGA\Downloads\Quyen\Quyen\obj\Debug\Quyen.Properties.Resources.resources
+C:\Users\NGA\Downloads\Quyen\Quyen\obj\Debug\Quyen.csproj.GenerateResource.cache
+C:\Users\NGA\Downloads\Quyen\Quyen\obj\Debug\Quyen.csproj.CoreCompileInputs.cache
+C:\Users\NGA\Downloads\Quyen\Quyen\obj\Debug\Quyen.exe
+C:\Users\NGA\Downloads\Quyen\Quyen\obj\Debug\Quyen.pdb
+C:\Users\NGA\Downloads\Quyen\Quyen\obj\Debug\Quyen.Form1.resources
+C:\Users\NGA\Downloads\Quyen\Quyen\obj\Debug\Quyen.profileKH.resources
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\Quyen.exe.config
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\Quyen.exe
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\Quyen.pdb
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.csprojAssemblyReference.cache
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.dangnhap.resources
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.dangky.resources
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.Form1.resources
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.profileKH.resources
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.hoadon.resources
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.quenMK.resources
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.Form4.resources
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.khachhang.resources
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.nhanvien.resources
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.thucung.resources
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.trangchu.resources
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.sanpham.resources
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.dichvu.resources
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.Properties.Resources.resources
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.csproj.GenerateResource.cache
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.csproj.CoreCompileInputs.cache
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.exe
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.pdb
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.cappnhatNV.resources
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.profileNV.resources
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.capnhatSP.resources
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.capnhatDV.resources
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.capnhatTC.resources
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.capnhatHD.resources
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\EnvDTE.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\stdole.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\Microsoft.MSXML.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\RdlCompile.cache
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\RdlCompile.compiled
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.csproj.CopyComplete
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.In_DSNV.resources
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.In_DSKH.resources
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.In_DS_SP.resources
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.In_DS_TC.resources
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.In_DS_DV.resources
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.In_DS_HD.resources
+F:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.Form2.resources
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\Quyen.exe.config
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\Quyen.exe
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\Quyen.pdb
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\Microsoft.ReportViewer.Design.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\EnvDTE.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\stdole.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\Microsoft.MSXML.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.csprojAssemblyReference.cache
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.capnhatDV.resources
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.capnhatHD.resources
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.capnhatSP.resources
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.capnhatTC.resources
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.dangnhap.resources
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.dangky.resources
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.Form1.resources
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.cappnhatNV.resources
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.Form2.resources
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.In_DSKH.resources
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.In_DSNV.resources
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.In_DS_DV.resources
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.In_DS_HD.resources
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.In_DS_SP.resources
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.In_DS_TC.resources
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.profileKH.resources
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.hoadon.resources
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.profileNV.resources
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.quenMK.resources
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.Form4.resources
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.khachhang.resources
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.nhanvien.resources
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.thucung.resources
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.trangchu.resources
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.sanpham.resources
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.dichvu.resources
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.Properties.Resources.resources
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.csproj.GenerateResource.cache
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.csproj.CoreCompileInputs.cache
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.csproj.CopyComplete
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.exe
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.pdb
+G:\Lập trình ứng dụng\Quyen\Quyen\obj\Debug\Quyen.chu.resources
+D:\qlthucung\Quyen\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\qlthucung\Quyen\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\qlthucung\Quyen\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\qlthucung\Quyen\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\qlthucung\Quyen\bin\Debug\Quyen.exe.config
+D:\qlthucung\Quyen\bin\Debug\Quyen.exe
+D:\qlthucung\Quyen\bin\Debug\Quyen.pdb
+D:\qlthucung\Quyen\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\qlthucung\Quyen\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\qlthucung\Quyen\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\qlthucung\Quyen\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\qlthucung\Quyen\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\qlthucung\Quyen\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\qlthucung\Quyen\bin\Debug\EnvDTE.dll
+D:\qlthucung\Quyen\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\qlthucung\Quyen\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\qlthucung\Quyen\bin\Debug\stdole.dll
+D:\qlthucung\Quyen\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\qlthucung\Quyen\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\qlthucung\Quyen\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\qlthucung\Quyen\bin\Debug\Microsoft.MSXML.dll
+D:\qlthucung\Quyen\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\qlthucung\Quyen\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\qlthucung\Quyen\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\qlthucung\Quyen\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\qlthucung\Quyen\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\qlthucung\Quyen\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\qlthucung\Quyen\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\qlthucung\Quyen\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\qlthucung\Quyen\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\qlthucung\Quyen\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\qlthucung\Quyen\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qlthucung\Quyen\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qlthucung\Quyen\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qlthucung\Quyen\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qlthucung\Quyen\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qlthucung\Quyen\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qlthucung\Quyen\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qlthucung\Quyen\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qlthucung\Quyen\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qlthucung\Quyen\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\qlthucung\Quyen\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\qlthucung\Quyen\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\qlthucung\Quyen\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\qlthucung\Quyen\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\qlthucung\Quyen\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\qlthucung\Quyen\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\qlthucung\Quyen\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\qlthucung\Quyen\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\qlthucung\Quyen\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\qlthucung\Quyen\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\qlthucung\Quyen\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qlthucung\Quyen\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qlthucung\Quyen\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qlthucung\Quyen\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qlthucung\Quyen\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qlthucung\Quyen\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qlthucung\Quyen\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qlthucung\Quyen\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qlthucung\Quyen\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qlthucung\Quyen\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\qlthucung\Quyen\obj\Debug\Quyen.csprojAssemblyReference.cache
+D:\qlthucung\Quyen\obj\Debug\Quyen.capnhatDV.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.capnhatHD.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.capnhatSP.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.capnhatTC.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.chu.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.dangnhap.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.Form1.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.cappnhatNV.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.Form2.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.In_DSKH.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.In_DSNV.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.In_DS_DV.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.In_DS_HD.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.In_DS_SP.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.In_DS_TC.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.profileKH.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.hoadon.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.profileNV.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.quenMK.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.Form4.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.khachhang.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.nhanvien.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.thucung.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.trangchu.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.sanpham.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.dichvu.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.Properties.Resources.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.csproj.GenerateResource.cache
+D:\qlthucung\Quyen\obj\Debug\Quyen.csproj.CoreCompileInputs.cache
+D:\qlthucung\Quyen\obj\Debug\Quyen.csproj.CopyComplete
+D:\qlthucung\Quyen\obj\Debug\Quyen.exe
+D:\qlthucung\Quyen\obj\Debug\Quyen.pdb
+D:\qlthucung\Quyen\obj\Debug\Quyen.profileTK.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\Quyen.exe.config
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\Quyen.exe
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\Quyen.pdb
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\Microsoft.ReportViewer.Design.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\EnvDTE.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\stdole.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\Microsoft.MSXML.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.csprojAssemblyReference.cache
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.capnhatDV.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.capnhatHD.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.Form1.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.capnhatSP.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.capnhatTC.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.chu.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.dangnhap.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.cappnhatNV.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.Form2.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.In_DSKH.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.In_DSNV.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.In_DS_DV.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.In_DS_HD.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.In_DS_SP.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.In_DS_TC.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.profileKH.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.hoadon.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.profileNV.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.profileTK.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.quenMK.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.Form4.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.khachhang.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.nhanvien.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.thucung.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.trangchu.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.sanpham.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.dichvu.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.Properties.Resources.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.csproj.GenerateResource.cache
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\RdlCompile.cache
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\RdlCompile.compiled
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.csproj.CoreCompileInputs.cache
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.csproj.CopyComplete
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.exe
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.pdb
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.capnhatCV.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.capnhatLSP.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.capnhatGTC.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.capnhatNG.resources
+G:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.thongke.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\Quyen.exe.config
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\Quyen.exe
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\Quyen.pdb
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\EnvDTE.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\stdole.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\Microsoft.MSXML.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.csprojAssemblyReference.cache
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.capnhatCV.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.capnhatDV.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.capnhatGTC.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.capnhatHD.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.Form1.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.capnhatLSP.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.capnhatNG.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.capnhatSP.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.capnhatTC.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.chu.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.dangnhap.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.cappnhatNV.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.Form2.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.In_DSKH.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.In_DSNV.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.In_DS_DV.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.In_DS_HD.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.In_DS_SP.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.In_DS_TC.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.profileKH.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.hoadon.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.profileNV.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.profileTK.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.quenMK.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.Form4.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.khachhang.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.nhanvien.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.thongke.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.thucung.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.trangchu.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.sanpham.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.dichvu.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.Properties.Resources.resources
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.csproj.GenerateResource.cache
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.csproj.CoreCompileInputs.cache
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.csproj.CopyComplete
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.exe
+F:\Lập trình ứng dụng\qlthucung\Quyen\obj\Debug\Quyen.pdb
+D:\qlthucung\Quyen\obj\Debug\Quyen.capnhatCV.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.capnhatGTC.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.capnhatLSP.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.capnhatNG.resources
+D:\qlthucung\Quyen\obj\Debug\Quyen.thongke.resources
+D:\qlthucung\Quyen\obj\Debug\RdlCompile.cache
+D:\qlthucung\Quyen\obj\Debug\RdlCompile.compiled
