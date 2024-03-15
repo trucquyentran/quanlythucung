@@ -2,7 +2,7 @@ I. Công nghệ sử dụng:
 
 Hệ thống sử dụng ngôn ngữ C#.
 
-II. Một số giao diện website:
+II. Một số giao diện hệ thống:
 
 ![image](https://github.com/trucquyentran/quanlythucung/assets/101681888/e57f6f79-3270-4870-95d9-9664bb3b519f)
 
